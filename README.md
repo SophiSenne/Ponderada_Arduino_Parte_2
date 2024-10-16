@@ -19,3 +19,6 @@ Nesta atividade, o objetivo é simular no TinkerCad um circuito de pisca-pisca c
 Você pode acessar a simulação deste projeto no TinkerCad através do link abaixo:
 
 [TinkerCad - Ponderada Parte 2](https://www.tinkercad.com/things/cWQ5PDSkEat-ponderada-1)
+
+## Código
+O código criado no TinkerCad está disponível no arquivo [code.ino](code.ino).
